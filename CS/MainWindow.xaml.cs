@@ -30,7 +30,7 @@ namespace CollectionEditorEvents {
 
         void OnCollectionButtonClick(object sender, CollectionButtonClickEventArgs e) {
             if (e.ButtonKind == CollectionButtonKind.Remove) {
-                if (ThemedMessageBox.Show(title: "", text: $"Do you want to delete this {e.Value.GetType().Name}?", messageBoxButtons: MessageBoxButton.YesNo,
+                if (ThemedMessageBox.Show(title: $"Delete {e.Value.GetType().Name}", text: $"Do you want to delete this {e.Value.GetType().Name}?", messageBoxButtons: MessageBoxButton.YesNo,
                 messageBoxParameters: new ThemedMessageBoxParameters { WindowStartupLocation = WindowStartupLocation.CenterOwner, TimerTimeout = TimeSpan.FromSeconds(5) }) == MessageBoxResult.No)
                     e.Handled = true;
             }
