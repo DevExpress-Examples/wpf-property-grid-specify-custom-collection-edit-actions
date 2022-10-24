@@ -1,4 +1,4 @@
-# Product/Platform - Task
+# WPF Property Grid - Specify Custom Collection Edit Actions
 
 This is the repository template for creating new examples. Describe the solved task here.
 
