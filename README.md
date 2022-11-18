@@ -18,7 +18,7 @@ This example allows users to delete only specified items from the collection. Wh
 ## Documentation
 
 - [PropertyGridControl.CollectionButtonsVisibility](https://docs.devexpress.com/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.CollectionButtonsVisibility?v=22.2)
-- [PropertyGridControl.CollectionButtonClick](https://docs.devexpress.devx/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.CollectionButtonClick?v=22.2)
+- [PropertyGridControl.CollectionButtonClick](https://docs.devexpress.com/WPF/DevExpress.Xpf.PropertyGrid.PropertyGridControl.CollectionButtonClick?v=22.2)
 - [Collection Definitions](https://docs.devexpress.com/WPF/15719/controls-and-libraries/property-grid/property-definitions/collection-definitions)
 
 ## More Examples
