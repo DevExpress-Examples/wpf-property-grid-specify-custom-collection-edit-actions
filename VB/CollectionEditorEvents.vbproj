@@ -2,9 +2,10 @@
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
     <OutputType>WinExe</OutputType>
-    <TargetFrameworks>net6.0-windows;net472</TargetFrameworks>
+    <TargetFrameworks>net6.0-windows</TargetFrameworks>
     <UseWPF>true</UseWPF>
     <EnableDefaultApplicationDefinition>false</EnableDefaultApplicationDefinition>
+    <RootNamespace />
   </PropertyGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml" />
