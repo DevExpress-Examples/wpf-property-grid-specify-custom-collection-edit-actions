@@ -2,6 +2,7 @@
 ![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/556756726/22.2.1%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1123398)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+[![](https://img.shields.io/badge/💬_Leave_Feedback-feecdd?style=flat-square)](#does-this-example-address-your-development-requirementsobjectives)
 <!-- default badges end -->
 # WPF Property Grid - Specify Custom Collection Edit Actions
 
@@ -25,3 +26,10 @@ This example allows users to delete only the specified items from the collection
 
 - [How to: Add an Object with Predefined Property Values using the Collection Editor](https://github.com/DevExpress-Examples/how-to-add-an-object-with-predefined-property-values-using-the-collection-editor-e4855)
 - [WPF Property Grid - Show ToolTips in the New Item Menu](https://github.com/DevExpress-Examples/wpf-property-grid-show-tooltips-in-new-item-menu)
+<!-- feedback -->
+## Does this example address your development requirements/objectives?
+
+[<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-property-grid-specify-custom-collection-edit-actions&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-property-grid-specify-custom-collection-edit-actions&~~~was_helpful=no)
+
+(you will be redirected to DevExpress.com to submit your response)
+<!-- feedback end -->
