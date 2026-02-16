@@ -27,7 +27,7 @@ This example allows users to delete only the specified items from the collection
 - [How to: Add an Object with Predefined Property Values using the Collection Editor](https://github.com/DevExpress-Examples/how-to-add-an-object-with-predefined-property-values-using-the-collection-editor-e4855)
 - [WPF Property Grid - Show ToolTips in the New Item Menu](https://github.com/DevExpress-Examples/wpf-property-grid-show-tooltips-in-new-item-menu)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-property-grid-specify-custom-collection-edit-actions&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-property-grid-specify-custom-collection-edit-actions&~~~was_helpful=no)
 
